@@ -1,4 +1,4 @@
-**Note:** Main implementation is available in the `MASTER` branch.
+**Note:** Main implementation is available in the `master` branch.
 
 ## Description
 This is a simple console application written in C# that simulates a university equipment rental system. The system allows users to borrow and return equipment and checks if items are available.
