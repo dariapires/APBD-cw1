@@ -22,3 +22,4 @@ Keep the code simple and readable.
 The responsibilities are divided between classes, so each class does one main thing.
 Business rules like rental limits and penalties are placed in separate classes (Policies), so they are easy to change.
 Services handle operations.
+Example change in feature branch.
